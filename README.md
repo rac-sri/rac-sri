@@ -15,9 +15,11 @@ My Website: [rachit2501.live](https://rachit2501.live)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rachit2501.rachit2501) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<span align="center">
 **Languages and Tools:**  
+</span>
 
+<div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
@@ -34,7 +36,7 @@ My Website: [rachit2501.live](https://rachit2501.live)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png"></code>
-
+</div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
