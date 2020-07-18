@@ -9,13 +9,10 @@ My Website: [rachit2501.live](https://rachit2501.live)
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third one works.”
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=rachit2501&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
-<strong>Languages and Tools</strong>  
+![github stats](https://github-readme-stats.vercel.app/api?username=rachit2501&show_icons=true)
 </div>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
