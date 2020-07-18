@@ -1,11 +1,10 @@
-### Hi there 👋
+# Aloha there 👋
 
 My Website: [rachit2501.live](https://rachit2501.live)
 
-- 😄 I am Rachit, a self taught programmer, tech lover.
-- 🔭 I’m currently working on improving my existing skill set in three domains : Web/App and Blockchain development.
+- 😄 I am Rachit, a self taught programmer, tech lover. 
+- 🔭 I’m currently working in three domains: Web,App, and Blockchain Development. I also find cyber security interesting and love trying out CTFs.
 - 💬 Ask me about Web/App/Blockchain development. Always happy to help 😊. Follow me here on github to be keep yourself updated with my works.
-- 📫 How to reach me: Telegram handler : @rachit2501
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third one works.”
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -18,19 +17,17 @@ My Website: [rachit2501.live](https://rachit2501.live)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react-native/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://avatars1.githubusercontent.com/ml/7?s=400&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ethereum/ethereum.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pwa/pwa.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/ethereum/ethereum.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/blockchain/blockchain.png"></code>
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
