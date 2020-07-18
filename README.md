@@ -12,12 +12,10 @@ My Website: [rachit2501.live](https://rachit2501.live)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rachit2501&show_icons=true)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rachit2501.rachit2501) 
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<span align="center">
-**Languages and Tools:**  
-</span>
+<div align="center">
+<strong>Languages and Tools</strong>  
+</div>
 
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
