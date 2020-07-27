@@ -11,10 +11,11 @@ My Website: [rachit2501.live](https://rachit2501.live)
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&show_icons=true" />
 </div>
+<!--  
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=rachit2501" />
 </div>
-
+--> 
 ***
 
 <div align="center">
