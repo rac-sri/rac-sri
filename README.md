@@ -8,11 +8,12 @@ My Website: [rachit2501.live](https://rachit2501.live)
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third one works.”
 
 ***
-
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&show_icons=true" />
 </div>
-
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=rachit2501" />
+</div>
 ***
 
 <div align="center">
