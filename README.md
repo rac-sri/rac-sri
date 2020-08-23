@@ -9,7 +9,7 @@ My Website: [rachit2501.live](https://rachit2501.live)
 
 ***
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&bg_color=50,e46443,804e95&title_color=fff&text_color=fff&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&bg_color=10,172f45,45b3e0&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" />
 <!-- https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&show_icons=true -->
 </div>
 <!--  
