@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="./readme.gif" />
+ <img src="https://github.com/rachit2501/rachit2501/blob/master/readme.gif" />
 </div>
 
 **My Website: [rachit2501.live](https://rachit2501.live)**
