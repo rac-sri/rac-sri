@@ -3,7 +3,7 @@
  <img src="https://github.com/rachit2501/rachit2501/blob/master/readme.gif" />
 </div>
 
-**My Website: [rachit2501.live](https://rachit2501.live)**
+<div align="center"><h3><a href="https://rachit2501.live"  color="grey">Portfolio</a></h3></div>
 
 - 😄 I am **Rachit**, a self taught programmer, tech lover. 
 - 🔭 I’m currently working in three domains: Web,App, and Blockchain Development. I also find cyber security interesting and love trying out CTFs.
@@ -13,6 +13,7 @@
 ***
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&bg_color=10,172f45,45b3e0&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" />
+ <img src="https://komarev.com/ghpvc/?username=rachit2501&color=yellowgreen"/>
 <!-- https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&show_icons=true -->
 </div>
 <!--  
