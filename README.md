@@ -12,7 +12,7 @@
 
 ***
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&bg_color=10,172f45,45b3e0&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&include_all_commits=true" />
  
 <!-- https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&show_icons=true -->
 </div>
@@ -48,6 +48,10 @@
   <a href="https://www.linkedin.com/in/rachit-anand-srivastava-345307173/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
  <a href="https://discord.com/users/rachit2501#1477"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://rachit2501.live"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-   <a href="https://t.me/rachit2501"><img src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" width="30px" alt="site"></a> &nbsp; &nbsp;
+   <a href="https://t.me/rachit2501"><img src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" width="30px" alt="site"></a>
+ &nbsp; &nbsp;
+  <a href="https://gitcoin.co/rachit2501"><img src="https://www.vectorlogo.zone/logos/gitcoinco/gitcoinco-icon.svg" width="30px" alt="site"></a>
+ &nbsp; &nbsp;
 </p>
+
 
