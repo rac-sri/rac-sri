@@ -52,6 +52,9 @@
  &nbsp; &nbsp;
   <a href="https://gitcoin.co/rachit2501"><img src="https://www.vectorlogo.zone/logos/gitcoinco/gitcoinco-icon.svg" width="30px" alt="site"></a>
  &nbsp; &nbsp;
+  <a href="https://twitter.com/RacSri25"><img src="https://raw.githubusercontent.com/deut-erium/deut-erium/master/assets/twitter.svg" width="30px" alt="site"></a>
+ &nbsp; &nbsp;
+
 </p>
 
 
