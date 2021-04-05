@@ -54,7 +54,7 @@
  &nbsp; &nbsp;
   <a href="https://twitter.com/RacSri25"><img src="https://raw.githubusercontent.com/deut-erium/deut-erium/master/assets/twitter.svg" width="30px" alt="site"></a>
  &nbsp; &nbsp;
-  <a href="https://rachit2501.medium.com/"><img src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png" width="30px" alt="site"></a>
+  <a href="https://rachit2501.medium.com/"><img src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/PNG/RGB/Medium-Symbol-Black-RGB%401x.png" width="30px" alt="site"></a>
 
 </p>
 
