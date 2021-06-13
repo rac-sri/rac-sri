@@ -6,6 +6,7 @@
 <div align="center"><h3><a href="https://rachit2501.live"  color="grey">Portfolio</a></h3></div>
 
 - 😄 I am **Rachit**, a self taught programmer, tech lover. 
+- 💻 I currently work Part-Time as SDE at [Harmony.One](https://harmony.one/)
 - 🔭 I’m currently working in three domains: Web,App, and Blockchain Development. I also find cyber security interesting and love trying out CTFs.
 - 💬 Ask me about Web/App/Blockchain development. Always happy to help 😊. Follow me here on github to keep yourself updated with my works.
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third one works.”
