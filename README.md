@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://github.com/rachit2501/rachit2501/blob/master/readme.gif" />
+ <img src="https://raw.githubusercontent.com/raklaptudirm/raklaptudirm/main/robot.svg" />
 </div>
 
 <div align="center"><h3><a href="https://rachit2501.live"  color="grey">Portfolio</a></h3></div>
