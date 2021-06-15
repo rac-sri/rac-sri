@@ -6,7 +6,7 @@
 *** 
 
 - 😄 I am **Rachit**, a self taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
-- 💻 I currently work Part-Time as SDE at [Harmony.One](https://harmony.one/)
+- 💻 I currently working as Part-Time SDE at [Harmony.One](https://harmony.one/)
 - 🔭 I’m currently working in three domains: Web,App, and Blockchain Development. I also find cyber security interesting and love trying out CTFs.
 - 💬 Ask me about Web/App/Blockchain development. Always happy to help 😊. Follow me here on github to keep yourself updated with my works.
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third one works.”
