@@ -13,10 +13,16 @@
 
 ***
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&include_all_commits=true" />
+ <div style="display: flex; align-items: flex-start;">
+ <img width="45%" src="https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&include_all_commits=true" />
  
 <!-- https://github-readme-stats.vercel.app/api?username=rachit2501&count_private=true&show_icons=true -->
+
+
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rachit2501&" alt="rachit2501" />
 </div>
+ 
+ 
 <div align="center"><img src="https://komarev.com/ghpvc/?username=rachit2501&color=yellowgreen"/></div>
 <!--  
 <div align="center">
