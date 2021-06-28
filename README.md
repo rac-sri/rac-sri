@@ -64,5 +64,6 @@
   <a href="https://rachit2501.medium.com/"><img src="https://raw.githubusercontent.com/Medium/medium-logos/master/03_Symbol/01_Black/PNG/RGB/Medium-Symbol-Black-RGB%401x.png" width="30px" alt="site"></a>
 
 </p>
-
+ 
+ <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rachit2501&theme=react-dark&hide_border=true"/></div>
 
