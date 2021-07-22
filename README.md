@@ -67,5 +67,3 @@
 
 </p>
  
- <div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rachit2501&theme=react-dark&hide_border=true"/></div>
-
