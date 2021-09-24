@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://raw.githubusercontent.com/raklaptudirm/raklaptudirm/main/robot.svg" />
+ <img src="https://i.gifer.com/5eKX.gif" />
 </div>
 
 *** 
