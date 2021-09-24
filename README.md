@@ -1,6 +1,6 @@
 
 <div align="center">
- <img src="https://i.gifer.com/5eKX.gif" />
+ <img src="https://d2poqm5pskresc.cloudfront.net/wp-content/uploads/2019/10/Hi-Tech-Platforms-Information-Services.jpg" height="400px"/>
 </div>
 
 *** 
