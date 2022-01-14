@@ -6,7 +6,7 @@
 *** 
 
 - 😄 I am **Rachit**, a self taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
-- 💻 I am Full-Time Solidity Developer at [Nethermind](https://nethermind.io/) (Demerzel Solutions) + Part-Time / Contractual at [Harmony.One](https://harmony.one/) , [Atlantis.World](https://atlantis.world"), [Footium](https://footium.club)
+- 💻 I am Full-Time Solidity Developer at [Nethermind](https://nethermind.io/) (Demerzel Solutions) + Part-Time / Contract at [Harmony.One](https://harmony.one/) , [Atlantis.World](https://atlantis.world"), [Footium](https://footium.club)
 - 💪 I am currently Learning Cryptography Mathmetics and AR Development.
 - 🔭 I specialize in three domains: Web,App, and Blockchain Development. 
 - 🤓 I also find AR/VR, Cyber Security, and AI facinating. Love to checkout CTFs.
