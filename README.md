@@ -6,8 +6,8 @@
 *** 
 
 - 😄 I am **Rachit**, a self taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
-- 💻 I am Full-Time Solidity Developer at [Nethermind](https://nethermind.io/) (Demerzel Solutions) + Part-Time SDE at [Harmony.One](https://harmony.one/)
-- 💪 I am currently building [Lenders.finance](https://github.com/LendersFinance/) as a side project.
+- 💻 I am Full-Time Solidity Developer at [Nethermind](https://nethermind.io/) (Demerzel Solutions) + Part-Time / Contractual at [Harmony.One](https://harmony.one/) , [Atlantis.World](https://atlantis.world"), and [Footium](https://footium.club)
+- 💪 I am currently Learning Cryptography Mathmetics and AR Development.
 - 🔭 I specialize in three domains: Web,App, and Blockchain Development. 
 - 🤓 I also find AR/VR, Cyber Security, and AI facinating. Love to checkout CTFs.
 - 💬 Ask me about Web/App/Blockchain development. Always happy to help 😊. Follow me here on github and checkout my [Twitter](https://twitter.com/RacSri25) to keep yourself up-to-date with my works.
