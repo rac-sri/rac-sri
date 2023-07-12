@@ -6,7 +6,7 @@
 *** 
 
 - 😄 I am **Rachit**, a self taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
-- 💻 Blockchain + Fullstack Consultant. Full-Time Solidity Developer Consultant at [Nethermind](https://nethermind.io/) + Part-Time / Contract at  [Atlantis.World](https://atlantis.world")
+- 💻 Blockchain + Fullstack Consultant. Solidity Developer Consultant at [Nethermind](https://nethermind.io/) + [Atlantis.World](https://atlantis.world")
 - Previously: [Harmony.One](https://harmony.one/) , [Footium](https://footium.club)
 - 💪 I am currently Learning Cryptography Mathmetics and AR Development.
 - 🔭 I specialize in three domains: Web,App, and Blockchain Development. 
