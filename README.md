@@ -5,13 +5,13 @@
 
 *** 
 
-- 😄 I am **Rachit**, a self taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
+- 😄 I am **Rachit**, a self-taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
 - 💻 Blockchain + Fullstack Consultant. Solidity Developer Consultant at [Nethermind](https://nethermind.io/),[Atlantis.World](https://atlantis.world"), [Gigawatt](https://gigawa.tt)
 - Previously: [Harmony.One](https://harmony.one/) , [Footium](https://footium.club) etc
-- 💪 I also work as a researcher in the field of cryptography.
-- 🔭 I specialize in three domains: Web,App, and Blockchain Development. 
-- 🤓 I also find AR/VR, Cyber Security, and AI facinating. Love to checkout CTFs.
-- 💬 Ask me about Web/App/Blockchain development. Always happy to help 😊. Follow me here on github and checkout my [Twitter](https://twitter.com/RacSri25) to keep yourself up-to-date with my works.
+- 💪 I also work as a part-time researcher in cryptography.
+- 🔭 I specialize in Web, App, and Blockchain Development domains. 
+- 🤓 I also find AR/VR, Cyber Security, and AI fascinating. I love to check out CTFs.
+- 💬 Ask me about Web/App/Blockchain development. Always happy to help 😊. Follow me here on Git Hub and check out my [Twitter](https://twitter.com/RacSri25) to keep yourself up-to-date with my work.
 - ⚡ Fun fact: “There are two ways to write error-free programs; only the third one works.”
 
 ***
