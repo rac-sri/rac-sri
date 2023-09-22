@@ -5,7 +5,7 @@
 
 *** 
 
-- 😄 I am **Rachit**, a self-taught programmer, tech lover. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
+- 😄 I am **Rachit**, a computer science graduate. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
 - Founder - [ByteShift Solutions](https://byteshiftsolutions.com)
 - 💻 Blockchain + Fullstack Consultant. Solidity Developer Consultant at [Nethermind](https://nethermind.io/),[Atlantis.World](https://atlantis.world"), [Gigawatt](https://gigawa.tt)
 - Previously: [Harmony.One](https://harmony.one/) , [Footium](https://footium.club) etc
