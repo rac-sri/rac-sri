@@ -6,9 +6,8 @@
 *** 
 
 - 😄 I am **Rachit**, a computer science graduate. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
-- Founder - [ByteShift Solutions](https://byteshiftsolutions.com)
-- 💻 Blockchain + Fullstack Consultant. Solidity Developer Consultant at [Nethermind](https://nethermind.io/),[Atlantis.World](https://atlantis.world"), [Gigawatt](https://gigawa.tt)
-- Previously: [Harmony.One](https://harmony.one/) , [Footium](https://footium.club) etc
+- 💻 Head of Engineering at [Limitless Labs](https://limitless.network)
+- Previously: [Nethermind](https://nethermind.io/), [Harmony.One](https://harmony.one/) , [Footium](https://footium.club) etc
 - 💪 I also work as a part-time researcher in cryptography.
 - 🔭 I specialize in Web, App, and Blockchain Development domains. 
 - 🤓 I also find AR/VR, Cyber Security, and AI fascinating. I love to check out CTFs.
