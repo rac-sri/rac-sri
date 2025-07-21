@@ -6,7 +6,7 @@
 *** 
 
 - 😄 I am **Rachit**, a computer science graduate. Checkout my portfolio -> [https://rachitasrivastava.com](https://rachitasrivastava.com)
-- 💻 Currenlty Blockchain Developer at [Avail](https://availproject.org)
+- 💻 Currently Blockchain Developer at [Avail](https://availproject.org)
 - 💪 I also do cryptography research.
 - 🔭 I specialize in Web, Blockchain and Distributed Systems Development ( Smart Contracts + Core engineering ) domains. 
 - Previously: 
