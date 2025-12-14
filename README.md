@@ -2,7 +2,6 @@
 
 *** 
 
-- 😄 [https://privacyprophet.xyz]([https://rachitasrivastava.com](https://privacyprophet.xyz))
 - 💻 Currently Sr. R&D at [Avail](https://availproject.org)
 - 💪 I also do cryptography research.
 - 🔭 I specialize in Web, Blockchain and Distributed Systems Development ( Smart Contracts + Core engineering ) domains. 
