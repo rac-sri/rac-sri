@@ -2,8 +2,7 @@
 
 *** 
 
-- 💻 Currently Sr. R&D at [Avail](https://availproject.org)
-- 💪 I also do cryptography research.
+- 💻 Currently Sr. R&D at [Avail](https://availproject.org) | Rust | Cryptography | Blockchain
 - 🔭 I specialize in Web, Blockchain and Distributed Systems Development ( Smart Contracts + Core engineering ) domains. 
 - Previously: 
   - Head of Engineering @ [Limitless Labs](https://limitless.network)
